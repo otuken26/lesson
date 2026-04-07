@@ -1,5 +1,6 @@
 # lesson
 localstorage save - kpssVideos
+```json
 [
     {
         "id": "16670895-f4a6-49d1-b766-186c9e7d4f63",
@@ -2690,3 +2691,4 @@ localstorage save - kpssVideos
         "status": "unwatched"
     }
 ]
+```
