@@ -16,7 +16,7 @@ localstorage save - kpssVideos
         "category": "Tarih",
         "image": "https://i.ytimg.com/vi/6YZLGNmqvQY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKg2ztVIyPw4mlcTL4p2hp0EtndA",
         "link": "https://www.youtube.com/watch?v=6YZLGNmqvQY&list=PL5kIOunpmSBM_vApgXxIQZx5PnegGbWFF&index=2&t=4702s&pp=iAQB",
-        "status": "unwatched"
+        "status": "watched"
     },
     {
         "id": "e2df0d35-b68f-4dea-8823-da39ee19534f",
@@ -24,7 +24,7 @@ localstorage save - kpssVideos
         "category": "Tarih",
         "image": "https://i.ytimg.com/vi/zY2YTXNP0i4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWdKjaqnr2zFn5DzW6a_R4mRP0dg",
         "link": "https://www.youtube.com/watch?v=zY2YTXNP0i4&list=PL5kIOunpmSBM_vApgXxIQZx5PnegGbWFF&index=3&pp=iAQB",
-        "status": "unwatched"
+        "status": "watched"
     },
     {
         "id": "2c37199d-c370-4291-a377-bc6ef61ec4d8",
